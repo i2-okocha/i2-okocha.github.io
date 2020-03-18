@@ -25,7 +25,7 @@
 
 ###  http://webprotege.stanford.edu/R8YdIdyhzca7rwzAuBUgJ8C
 <http://webprotege.stanford.edu/R8YdIdyhzca7rwzAuBUgJ8C> rdf:type owl:NamedIndividual ,
-                                                                  sosa:https://i2-okocha.github.io/bedroomNode1 ;
+                                                                  sosa:Platform ;
                                                          sosa:hosts <http://webprotege.stanford.edu/R8fOeFIPhEDVJ7ot32TKIDH> ,
                                                                     <http://webprotege.stanford.edu/R8gQWzQVdutRedK6QvsPvGn> ,
                                                                     <http://webprotege.stanford.edu/R8nGReXTIN3osqEb6Km1O2K> ;
