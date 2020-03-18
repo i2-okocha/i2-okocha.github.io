@@ -24,12 +24,12 @@
 
 
 ###  http://webprotege.stanford.edu/R8YdIdyhzca7rwzAuBUgJ8C
-<http://webprotege.stanford.edu/R8YdIdyhzca7rwzAuBUgJ8C> rdf:type owl:NamedIndividual ,
+<https://i2-okocha.github.io/bedroomNode1> rdf:type owl:NamedIndividual ,
                                                                   sosa:Platform ;
                                                          sosa:hosts <http://webprotege.stanford.edu/R8fOeFIPhEDVJ7ot32TKIDH> ,
                                                                     <http://webprotege.stanford.edu/R8gQWzQVdutRedK6QvsPvGn> ,
                                                                     <http://webprotege.stanford.edu/R8nGReXTIN3osqEb6Km1O2K> ;
-                                                         rdfs:label "bedroomNode1" .
+                                                         rdfs:label "bedroomNode1.ttl" .
 
 
 ###  http://webprotege.stanford.edu/R8fOeFIPhEDVJ7ot32TKIDH
